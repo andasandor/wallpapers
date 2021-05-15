@@ -1,8 +1,14 @@
 [
   {
-    "name": "Adwaita Day",
+    "name": "Adwaita Day Landscape",
     "author": "Gnome 3.38",
     "url": "https://raw.githubusercontent.com/andasandor/wallpapers/main/adwaita-day.webp",
     "thumbUrl": "https://raw.githubusercontent.com/andasandor/wallpapers/main/adwaita-day.webp"
+  }
+  {
+    "name": "Adwaita Day Portrait",
+    "author": "Gnome 3.38",
+    "url": "https://raw.githubusercontent.com/andasandor/wallpapers/main/adwaita-day-portrait.webp",
+    "thumbUrl": "https://raw.githubusercontent.com/andasandor/wallpapers/main/adwaita-day-portrait.webp"
   }
 ]
